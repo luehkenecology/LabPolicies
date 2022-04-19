@@ -1,8 +1,6 @@
 # Arbovirus Ecology
 
-The research group "Arbovirus Ecology" studies the spatial-temporal distribution of vectors and associated pathogens. 
-
-<u>This includes:</u>
+The research group "Arbovirus Ecology" studies the spatial-temporal distribution of vectors and associated pathogens. This includes:
 
 1. Development and evaluation of methods for vector sampling and identification
 2. Vector and arbovirus surveillance
