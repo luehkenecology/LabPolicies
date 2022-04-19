@@ -8,4 +8,6 @@
     + Lab member name, date
     + Priorities
     + Todos for PI
-    + Open points (questions, non-prioritized issues)
+    + Open points (open questions, non-prioritized issues ...)
+    
+> Acknowledgement: The agenda is adapted from from "[Wallace lab](https://ewallace.github.io/manual/meetings-overview)" by Dr. Edward Wallace.
